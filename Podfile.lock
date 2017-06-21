@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.5.0)
+  - HandyJSON (1.7.1)
+  - Moya (8.0.5):
+    - Moya/Core (= 8.0.5)
+  - Moya/Core (8.0.5):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Nimble (7.0.1)
+  - Quick (1.1.0)
+  - Realm (2.8.2):
+    - Realm/Headers (= 2.8.2)
+  - Realm/Headers (2.8.2)
+  - RealmSwift (2.8.2):
+    - Realm (= 2.8.2)
+  - Result (3.2.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - HandyJSON (~> 1.7.1)
+  - Moya
+  - Nimble
+  - Quick
+  - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  HandyJSON: 54b6ce942795f7b2e61b82fe73cf25d9f139d125
+  Moya: c37eec09a098ba9991b5a963b291fc5704bdb9ef
+  Nimble: 657d000e11df8aebe27cdaf9d244de7f30ed87f7
+  Quick: dafc587e21eed9f4cab3249b9f9015b0b7a7f71d
+  Realm: 0e262abf087c7054013e00579274f7e070486d4a
+  RealmSwift: 73565e91bc403c1149e4acf31ff9de506b2f9459
+  Result: 128640a6347e8d2ae48b142556739a2d13f90ce6
+
+PODFILE CHECKSUM: aa402fdeee5dba9c7847cbe602d1c3265f133775
+
+COCOAPODS: 1.2.1
